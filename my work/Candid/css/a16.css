@@ -1,0 +1,514 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+
+  background-image: url("../images/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+#header-head {
+
+  text-align: center;
+  font-size: 31px;
+}
+#header-head h1 {
+
+}
+.header-box1 {
+
+  width: 32%;
+  font-size: 35px;
+}
+.header-box1 p {
+
+}
+.header-box2 {
+
+  text-align: center;
+  font-size: 23px;
+  width: 32%;
+  margin: 0 auto;
+}
+.header-box2 h1 {
+
+}
+.header-box2 hr {
+
+  width: 25%;
+  margin: 0 auto;
+}
+.header-box2 p {
+
+}
+.header-box3 {
+
+  width: 32%;
+  font-size: 32px;
+}
+.header-box3 p {
+
+}
+#header-menu {
+
+  margin-top: 1%;
+  background: rgba(0,0,0,.6);
+  padding: 1%;
+}
+#header-menu a {
+  
+  color: white;
+  text-decoration: none;
+  margin: 2%;
+  font-size: 21px;
+}
+/*header stop*/
+/*eget start*/
+#eget {
+	
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 3%;
+}
+.eget-box-12 {
+
+  overflow: hidden;
+  width: 100%;
+  float: left;
+}
+.eget-box1 {
+
+  background-image: url("../images/4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60%;
+  float: left;
+  padding: 7%;
+}
+.eget-box1-head {
+
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+.eget-box1-head h2 {
+
+}
+.eget-box1-head hr {
+
+  width: 20%;
+  color: wheat;
+  margin: 0 auto;
+}
+.eget-box1-head p {
+
+}
+.eget-box2 {
+
+  background-image: url("../images/2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 40%;
+  float: left;
+  padding: 5%;
+}
+.eget-box2-head {
+
+  font-size: 2em;
+  color: white;
+  text-align: center;
+}
+.eget-box2-head h2 {
+
+}
+.eget-box2-head hr {
+
+  color: wheat;
+  width: 25%;
+  margin: 0 auto;
+}
+.eget-box2-head p {
+
+}
+.eget-box-34 {
+
+  overflow: hidden;
+  width: 100%;
+  float: left;
+}
+.eget-box3 {
+
+  background-image: url("../images/3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 40%;
+  float: left;
+  padding: 7%;
+}
+.eget-box3-head {
+
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+.eget-box3-head h2 {
+
+}
+.eget-box3-head hr {
+
+  width: 20%;
+  color: wheat;
+  margin: 0 auto;
+}
+.eget-box3-head p {
+
+}
+.eget-box4 {
+
+  background-image: url("../images/5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60%;
+  float: left;
+  padding: 9%;
+}
+.eget-box4-head {
+
+  font-size: 2em;
+  color: white;
+  text-align: center;
+}
+.eget-box4-head h2 {
+
+}
+.eget-box4-head hr {
+
+  color: wheat;
+  width: 25%;
+  margin: 0 auto;
+}
+.eget-box4-head p {
+
+}
+.eget-box-56 {
+
+  float: left;
+  overflow: hidden;
+  width: 100%;
+}
+.eget-box5 {
+
+  background-image: url("../images/6.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60%;
+  float: left;
+  padding: 7%;
+}
+.eget-box5-head {
+
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+.eget-box5-head h2 {
+
+}
+.eget-box5-head hr {
+
+  width: 20%;
+  color: wheat;
+  margin: 0 auto;
+}
+.eget-box5-head p {
+
+}
+.eget-box6 {
+
+  background-image: url("../images/7.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 40%;
+  float: left;
+  padding: 5%;
+}
+.eget-box6-head {
+
+  font-size: 2em;
+  color: white;
+  text-align: center;
+}
+.eget-box6-head h2 {
+
+}
+.eget-box6-head hr {
+
+  color: wheat;
+  width: 25%;
+  margin: 0 auto;
+}
+.eget-box6-head p {
+
+}
+/*eget stop*/
+/*about start*/
+#about {
+
+}
+#about-head {
+
+  margin-left: 3%;
+  font-size: 20px;
+}
+#about-head h2 {
+
+}
+.mltr {
+
+  overflow: hidden;
+  margin-bottom: 3%;
+}
+.about-img {
+
+  width: 45%;
+  margin-left: 3%;
+  float: left;
+}
+.about-img img {
+
+  width: 100%;
+}
+.about-lorem-head {
+
+  width: 45%;
+  float: left;
+  margin-right: 3%;
+  margin-left: 1%;
+}
+.about-lorem-head h3 {
+
+  margin-bottom: 1%;
+  font-size: 20px;
+}
+.about-lorem-head p {
+	
+}
+/*about stop*/
+/*gallery start*/
+#gallery {
+
+  overflow: hidden;
+  padding: 3%;
+  background: #7373f6;
+}
+#gallery-head {
+
+  color: white;
+  font-size: 2em;
+}
+#gallery-head h2 {
+
+}
+.gallery-123 {
+
+  width: 48%;
+  float: left;
+  margin-right: 2%;
+}
+.gallery-img123 {
+
+  width: 100%;
+  margin-top: 2%;
+  overflow: hidden;
+}
+.gallery-img123 img {
+
+  width: 100%;
+}
+.gallery-img456 {
+
+  float: left;
+  width: 49%;
+  margin-right: 2%;
+  margin-top: 2%;
+}
+.gallery-img456 img {
+	
+  width: 100%;
+}
+.gallery-img456:nth-child(3) {
+  margin-right: 0;
+  margin-left: 2%;
+}
+.gallery-img456:nth-child(2) {
+	margin-right: 0;
+	margin-bottom: 2%;
+}
+/*gallery stop*/
+/*let start*/
+#let {
+
+  clear: both;
+  background: gray;
+}
+#let-head {
+
+  text-align: center;
+  color: white;
+  padding: 3%;
+}
+#let-head h2 {
+
+  padding-bottom: 1%;
+}
+#let-head p {
+
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 1%;
+}
+#let-head button {
+	
+  background: #08bef9;
+  border: 1px solid #efe7e7;
+  padding: 10px;
+  width: 8%;
+  color: white;
+}
+/*let stop*/
+/*team start*/
+#team {
+
+  margin: 5%;
+  overflow: hidden;
+}
+#team-head {
+
+  padding-bottom: 2%;
+}
+#team-head h2 {
+
+  font-size: 2em;
+}
+.team-box {
+
+  width: 33%;
+  float: left;
+}
+.team-box-img {
+
+  width: 30%;
+}
+.team-box-img img {
+
+  width: 100%;
+  border-radius: 60px;
+}
+.team-box-text {
+
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-right: 9%;
+}
+.team-box-text h2 {
+  
+  color: #00c0ff;
+}
+.team-box-text p {
+
+}
+.team-box-icon {
+
+  font-size: 32px;
+}
+.team-box-icon i {
+	
+}
+/*team stop*/
+/*form start*/
+#form {
+
+  background: #2222d7;
+}
+.mltr {
+
+}
+.form1 {
+
+}
+.form1 label {
+
+}
+.form1 button {
+
+}
+.form2 {
+
+}
+.form2-details {
+
+}
+.form-details h2 {
+
+}
+.form-details p {
+  
+}
+.form-icon {
+
+}
+.form-icon i {
+
+}
+/*form stop*/
+/*subscribe start*/
+#subscribe {
+
+  overflow: hidden;
+  padding: 2%;
+}
+.subscribe-box {
+
+}
+.subscribe-box label {
+
+}
+.subscribe-box button {
+
+  padding: 10px;
+  width: 10%;
+  background: #ff7500;
+  color: white;
+}
+/*subscribe stop*/
+/*footer start*/
+footer {
+
+  background: black;
+  text-align: center;
+  padding: 2%;
+}
+#footer-box {
+
+}
+.footer-box-icon {
+
+  padding-bottom: 1%;
+}
+.footer-box-icon i {
+  
+  font-size: 26px;
+  color: blue;
+  padding-right: 7px;
+}
+.footer-box-text {
+
+  color: white;
+}
+.footer-box-text p {
+
+}
+/*footer stop*/

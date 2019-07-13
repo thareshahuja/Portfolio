@@ -1,0 +1,299 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#black-layer {
+	background-color: rgba(0,0,0,.5);
+}
+#menu-strip {
+	background-color: rgba(0,0,0,.8);
+	overflow: hidden;
+}
+.mltr {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#symbol {
+	float: left;
+	color: orange;
+	width: 20%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+#options {
+	float: right;
+	width: 50%;
+	margin-top: 2%;
+	margin-right: -8%;
+	margin-bottom: 2%;
+}
+#options a {
+	color: white;
+	text-decoration: none;
+	margin-right: 5%;
+}
+#header-box { 
+	color: white;
+	width: 30%;
+	margin: 0 auto;
+	padding-bottom: 38%;
+	padding-top: 9%;
+	text-align: left;
+	margin-left: 20%;
+}
+/*combat start*/
+#combat {
+
+}
+#combat-head {
+	margin: 0 auto;
+	width: 45%;
+	text-align: center;
+	padding-top: 10%;
+	padding-bottom: 4%;
+}
+#combat-head h2 {
+
+}
+.text-red {
+ 	color: red;
+}
+.mltr {
+	margin-left: 10%;
+	margin-right: 10%;
+	overflow: hidden;
+}
+.combat-box {
+	width: 27%;
+	float: left;
+	text-align: center;
+	margin-left: 5%;
+	padding-bottom: 10%;
+	overflow: hidden;
+	margin-bottom: 15%;
+}
+.combat-box img {
+	width: 100%;
+	display: inline-block;
+	overflow: hidden;
+}
+.combat-box h3 {
+
+	padding-top: 5%;
+}
+.combat-box p {
+	
+	padding-top: 3%;
+}
+/*combat stop*/
+/*requirements start*/
+#requirements {
+	background-image: url("../images/require.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+	clear: both;
+}
+#requirements-head {
+
+	clear: both;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	color: white;
+}
+#requirements h2 {
+	text-align: center;
+
+}
+.mltr {
+
+}
+.requirements-box {
+	width: 30%;
+	float: left;
+	overflow: hidden;
+	border: 1px solid black;
+	text-align: left;
+	padding-bottom: 5%;
+	box-sizing: border-box;
+	background-color: rgba(0,0,0,.3);
+	margin-left: 3%;
+	color: white;
+	padding-top: 3%;
+	padding-left: 3%;
+	margin-bottom: 30%;
+}
+i {
+	font-size: 2em;
+	margin-left: 34%;
+	padding-bottom: 7%;
+	color: blue;
+}
+h3 {
+
+}
+/*requirements stop*/
+/*upcoming start*/
+#upcoming{
+	
+	
+}
+#upcoming-head{
+
+	margin-top: 5%;
+	margin-left: 42%;
+	margin-bottom: 5%;
+	font-size: 23px;
+}
+#upcoming-head h2{
+
+}
+#upcoming-box1{
+	color: white;
+	width: 50%;
+	padding-top: 7%;
+	float: left;
+	overflow: hidden;
+}
+#upcoming-box1 h3{
+
+}
+#upcoming-box1 p{
+
+}
+button{
+
+	color: white;
+	width: 26%;
+	padding: 1%;
+	margin-left: 75%;
+	margin-top: 3%;
+	padding: 4%;
+	border: white;
+	background-color: #fe0606;
+	font-size: 1em;
+}
+#upcoming-box2{
+	color: white;
+	float: left;
+	width: 50%;
+	overflow: hidden;
+	padding-top: 7%;
+}
+.upcoming-box{
+	clear: both;
+	overflow: hidden;
+}
+.upcoming-box-img{
+	width: 20%;
+	float: left;
+	margin-right: 4%;
+}
+.upcoming-box-img img{
+	width: 100%;
+
+}
+.upcoming-box-text {
+	float: left;
+	width: 75%;
+}
+.upcoming-box-text h4{
+
+	color: blue;
+}
+.text-yellow{
+	color: #ffff06 !important;
+}
+.upcoming-box-text p{
+	
+}
+/*upcoming stop*/
+/*team start*/
+#team {
+	clear: both;
+	background-color: #aa9f9f;
+}
+#team-head {
+
+	text-align: center;
+	margin-bottom: 5%;
+	font-size: 25px;
+	padding-top: 5%;
+	margin-top: 7%;
+}
+#team-head h2 {
+
+}
+.team-box {
+
+}
+.team-box-img {
+
+	width: 21%;
+	float: left;
+	margin-right: 4%;
+	margin-bottom: 5%;
+}
+.team-box-img img {
+
+	width: 100%;
+	float: left;
+	border-radius: 48px;
+	margin-bottom: 5%;
+}
+.team-box h4 {
+
+	text-align: center;
+}
+.team-box p {
+	
+	text-align: center;
+}
+/*team stop*/
+/*footer start*/
+footer {
+	background-color: #020101;
+}
+.footer-box1 {
+
+	width: 33%;
+	float: left;
+}
+.footer-box1 h3 {
+
+	text-align: center;
+	font-size: 2em;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	color: #9898f3;
+}
+.footer-box1 i {
+
+	width: 2em;
+	float: left;
+	overflow: hidden;
+	margin-left: 7px;
+	margin-top: 10%;
+}
+.footer-box1 p {
+
+	color: #f90606;
+}
+.footer-box1 button {
+
+}
+.footer-box2 {
+
+	clear: both;
+}
+.footer-box2 p {
+	
+	color: #ff0606;
+}
+/*footer stop*/
