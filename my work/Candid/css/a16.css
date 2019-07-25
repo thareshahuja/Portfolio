@@ -27,7 +27,6 @@ header {
 
 }
 .header-box2 {
-
   text-align: center;
   font-size: 23px;
   width: 32%;
@@ -36,6 +35,9 @@ header {
 .header-box2 h1 {
 
 }
+.header-box2-icon {clear: both;overflow: hidden;width: 60%;margin: 0 auto;position: absolute;top: 20%;left: 20%;}
+.header-box2-icon i:first-child {float: left;font-size: 2em;}
+.header-box2-icon i:last-child {float: right;font-size: 2em;}
 .header-box2 hr {
 
   width: 25%;

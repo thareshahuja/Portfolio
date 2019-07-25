@@ -130,6 +130,8 @@ header {
 /*Justo Start*/
 #justo {
 	overflow: hidden;
+	clear: both;
+	padding-bottom: 5%;
 }
 .mltr {
 
@@ -141,10 +143,10 @@ header {
 }
 .justo-box {
 	float: left;
-	display: inline-block;
 	width: 30%;
 	margin-right: 2%;
 	box-shadow: 0px 0px 2px 5px #e6dfdf;
+	float: left;
 }
 .justo-box-img {
 
@@ -234,6 +236,7 @@ footer {
 }
 .footer-box1-icon p {
 
+	padding-bottom: 2%;
 }
 .footer-box1-icon a {
 

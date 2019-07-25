@@ -42,7 +42,7 @@ header {
 	color: white;
 	width: 30%;
 	margin: 0 auto;
-	padding-bottom: 38%;
+	padding-bottom: 5%;
 	padding-top: 9%;
 	text-align: left;
 	margin-left: 20%;
@@ -50,12 +50,14 @@ header {
 /*combat start*/
 #combat {
 
+	clear: both;
+	overflow: hidden;
 }
 #combat-head {
 	margin: 0 auto;
 	width: 45%;
 	text-align: center;
-	padding-top: 10%;
+	padding-top: 5%;
 	padding-bottom: 4%;
 }
 #combat-head h2 {
@@ -74,9 +76,8 @@ header {
 	float: left;
 	text-align: center;
 	margin-left: 5%;
-	padding-bottom: 10%;
 	overflow: hidden;
-	margin-bottom: 15%;
+	margin-bottom: 5%;
 }
 .combat-box img {
 	width: 100%;
@@ -99,6 +100,7 @@ header {
 	background-size: cover;
 	overflow: hidden;
 	clear: both;
+	background-position: center;
 }
 #requirements-head {
 
@@ -106,6 +108,7 @@ header {
 	padding-bottom: 5%;
 	padding-top: 5%;
 	color: white;
+	overflow: hidden;
 }
 #requirements h2 {
 	text-align: center;
@@ -127,7 +130,7 @@ header {
 	color: white;
 	padding-top: 3%;
 	padding-left: 3%;
-	margin-bottom: 30%;
+	margin-bottom: 5%;
 }
 i {
 	font-size: 2em;
@@ -295,5 +298,6 @@ footer {
 .footer-box2 p {
 	
 	color: #ff0606;
+	text-align: center;
 }
 /*footer stop*/
