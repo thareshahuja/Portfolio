@@ -17,6 +17,8 @@ header {
 }
 #header-head h1 {
 
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 .header-box1 {
 
@@ -31,11 +33,12 @@ header {
   font-size: 23px;
   width: 32%;
   margin: 0 auto;
+  padding-bottom: 8%;
 }
 .header-box2 h1 {
 
 }
-.header-box2-icon {clear: both;overflow: hidden;width: 60%;margin: 0 auto;position: absolute;top: 20%;left: 20%;}
+.header-box2-icon {clear: both;overflow: hidden;width: 60%;margin: 0 auto;position: absolute;top: 26%;left: 20%;}
 .header-box2-icon i:first-child {float: left;font-size: 2em;}
 .header-box2-icon i:last-child {float: right;font-size: 2em;}
 .header-box2 hr {
@@ -440,30 +443,53 @@ header {
 }
 .form1 {
 
+  width: 60%;
+  float: left;
+  margin-top: 2%;
+  padding-left: 5%;
+  padding-bottom: 3%;
 }
 .form1 label {
 
 }
+.form1 label input {
+
+  padding: 1%;
+  width: 35%;
+  margin-right: 2%;
+}
+.form1 label textarea {
+  
+  padding: 1%;
+  width: 73%;
+}
 .form1 button {
 
+  padding: 1%;
+  background-color: #10c2e8;
 }
 .form2 {
 
+  width: 40%;
+  float: left;
 }
 .form2-details {
 
 }
 .form-details h2 {
 
+  color: white;
 }
 .form-details p {
   
+  color: white;
 }
 .form-icon {
 
 }
 .form-icon i {
 
+  color: #11ff74;
 }
 /*form stop*/
 /*subscribe start*/
@@ -474,9 +500,15 @@ header {
 }
 .subscribe-box {
 
+  text-align: center;
 }
 .subscribe-box label {
 
+}
+.subscribe-box label input {
+  
+  padding: 1%;
+  width: 30%;
 }
 .subscribe-box button {
 
